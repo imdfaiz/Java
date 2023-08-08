@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class abcPattern {
 
     public static void main(String[] args) {
-        char ch;
+        char cha;
         boolean T=true;
         Scanner sc = new Scanner(System.in);
         while (T) {
@@ -13,7 +13,7 @@ public class abcPattern {
             for(int i=1;i<=n;i++){
                 for(int j=1;j<=i;j++){
                     System.out.print(ch);
-                    ch++;
+                    cha++;
                 }
                 System.out.println();
             }
