@@ -9,7 +9,7 @@ public class GeeksForGeeks {
 	{
 		int i, j;
 		int num = 1;
-		// outer loop to handle upper part
+		// outer loop to handle upper part 
 		for (i = 1; i <= n; i++) {
 			// inner loop to print spaces
 			for (j = 1; j <= n - i; j++) {
