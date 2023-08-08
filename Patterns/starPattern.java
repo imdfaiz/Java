@@ -14,7 +14,7 @@ public class starpattern {
                 for(long j=1; j<=i;j++){
                     System.out.print("*");
                 }
-                System.out.print("\n");
+                System.out.print("\n"); 
             }
             
 
