@@ -8,7 +8,7 @@ public class GeeksForGeeks {
 	{
 		int i, j;
 		int num = 1;
-		// outer loop to handle number of rows
+		// outer loop to handle number of rows 
 		for (i = 1; i <= n; i++) {
 			// inner loop to print spaces
 			for (j = 1; j <= n - i; j++) {
